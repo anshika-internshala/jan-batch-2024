@@ -1,4 +1,4 @@
-// synchronous code
+//synchronous code
 // function step1(num) {
 //    setTimeout(() => {
 //     return num + 1;
