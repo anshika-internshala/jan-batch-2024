@@ -40,3 +40,7 @@ user.greetings.apply(user2, [ 20, "cooking"]);
 
 const greetFunc = user.greetings.bind(user2, 20, "cooking");
 greetFunc();
+
+// Create your own bind method , call , apply --- most important interview question
+// Polyfill of bind , call and apply
+// Polyfill of map , filter , reduce
